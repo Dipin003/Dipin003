@@ -18,4 +18,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipin003&show_icons=true&locale=en&layout=compact" alt="dipin003" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipin003&" alt="dipin003" /></p>

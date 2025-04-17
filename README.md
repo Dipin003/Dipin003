@@ -1,7 +1,5 @@
 
 <h1 align="center">Hey 👋, I'm Dipin</h1>
-<h3 align="center">💻 Full-Stack Developer | MERN Stack Enthusiast 🚀 Passionate about building interactive and scalable web applications</h3>
-
 
 - 🔭 I’m currently working on **Exploring full-stack development and learning new technologies.**
 

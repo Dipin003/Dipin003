@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Exploring full-stack development and learning new technologies.**
 
-- 🌱 I’m currently learning **TypeScript & Next.js to enhance my Development Skills.**
+- 🌱 I’m currently learning **TypeScript & Next.js.**
 
 - 📫 How to reach me **kharayatdipin@gmail.com**
 

@@ -23,8 +23,6 @@
   <img width="12" />
  
   <img width="12" />
- 
-  <img width="12" />
   
 </div>
 

@@ -17,5 +17,3 @@
   
 </div>
 
-<br clear="both">
-

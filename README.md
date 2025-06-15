@@ -1,6 +1,5 @@
 <h2 align="left">Hi ! My name is Dipin and I'm a FullStack Developer</h2>
 
-###
 
 <div align="center">
 

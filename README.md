@@ -28,9 +28,3 @@
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&border_radius=5&order=3" height="150" alt="streak graph" />
   <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&margin-w=8&margin-h=8&order=4" height="150" alt="trophy graph" />
 </div>
-
-###
-
-<div align="center">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/main/output/pacman-contribution-graph.svg" />
-</div>

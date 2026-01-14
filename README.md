@@ -1,5 +1,5 @@
 
-# 👋 Hey, I’m Dipin!
+# 👋 Hey, I’m Dipin
 I’m a Full-Stack Developer who enjoys building clean, fast, and beautifully animated web apps.
 
 # 💫 About Me:

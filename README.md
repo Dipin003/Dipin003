@@ -3,7 +3,7 @@
 I’m a Full-Stack Developer who enjoys building clean, fast, and beautifully animated web apps.
 
 # 💫 About Me:
-🔭 I’m currently working on:  <br>Full-stack projects using MERN stack, AI tools integration, and modern UI/UX designs with Framer Motion and GSAP.<br><br>👯 I’m looking to collaborate on:  <br>Open source web apps, AI-driven tools, and creative frontend/UI design projects.<br><br>🤝 I’m looking for help with:  <br> Optimizing performance in React apps, and contributing to impactful open-source repositories.<br><br>🌱 I’m currently learning:  <br>Advanced React animations, TypeScript , and diving deeper into Next.js.<br><br>💬 Ask me about:  <br>JavaScript, React, Express, MongoDB, UI/UX animation tools, or building scalable web apps.<br><br>⚡ Fun fact:  <br>I love turning complex UIs into smooth animations and I debug better with music! 🎧<br>  
+🔭 I’m currently working on:  <br>Full-stack projects using MERN stack, AI tools integration, and modern UI/UX designs with Framer Motion and GSAP.<br><br> I’m looking to collaborate on:  <br>Open source web apps, AI-driven tools, and creative frontend/UI design projects.<br><br>🤝 I’m looking for help with:  <br> Optimizing performance in React apps, and contributing to impactful open-source repositories.<br><br>🌱 I’m currently learning:  <br>Advanced React animations, TypeScript , and diving deeper into Next.js.<br><br>💬 Ask me about:  <br>JavaScript, React, Express, MongoDB, UI/UX animation tools, or building scalable web apps.<br><br>⚡ Fun fact:  <br>I love turning complex UIs into smooth animations and I debug better with music! 🎧<br>  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dipinkharayat_03)
